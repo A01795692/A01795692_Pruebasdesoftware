@@ -1,3 +1,7 @@
+#pylint: disable=invalid-name
+"""
+Codigo para obtener el costo total
+"""
 import json
 import time
 

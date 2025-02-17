@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "name": "Hotel Gutierrez",
+        "location": "Cuatrocienegas",
+        "rooms_available": 10
+    },
+    {
+        "id": 2,
+        "name": "Hotel Playa",
+        "location": "Mazatlan",
+        "rooms_available": 5
+    }
+]

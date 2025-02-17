@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "customer_id": 1,
+        "hotel_id": 1,
+        "check_in": "2025-02-03",
+        "check_out": "2025-02-05"
+    },
+    {
+        "id": 2,
+        "customer_id": 2,
+        "hotel_id": 2,
+        "check_in": "2025-02-10",
+        "check_out": "2025-02-15"
+    }
+]
